@@ -6,8 +6,7 @@
 The flashcard app will display the question and show the correct answer corresponding to user's tap.
 
 ### App Walk-though
-
-<img src="https://imgur.com/a/9si7ptO.gif" width=200><br>
+<img src="https://imgur.com/x3DxbWm.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
